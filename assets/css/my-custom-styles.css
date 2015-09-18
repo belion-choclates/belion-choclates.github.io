@@ -1,0 +1,36 @@
+/* your custom styles here */
+.belion .navbar-brand.navbar-logo-bigger > img {
+	top: -30px;
+}
+
+.belion .col-md-6 {
+	padding-left: 10px;
+}
+
+.fa-stack .numbers {
+	color: white;
+}
+
+.fa-stack {
+	margin-right: 3px;
+}
+
+html, body, .container {
+	height: 100%;
+}
+
+.belion footer {
+	position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.belion .my-container {
+	padding-bottom: 50px;
+}
+
+.belion .wrapper {
+	min-height: 100%;
+    position: relative;
+}
