@@ -34,3 +34,50 @@ html, body, .container {
 	min-height: 100%;
     position: relative;
 }
+
+#top_image {
+	margin-top: 65px;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+a.big-link {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+h4 {
+	margin-top: 0;
+}
+
+.portfolio-container {
+	margin-top: 50px;
+}
+
+.address-label {
+	width: 100px;
+	display: inline-block;
+	vertical-align: top;
+	font-weight: bold;
+}
+
+.address-value {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.address-entry {
+	margin-top: 15px;
+	float: left;
+	clear: left;
+}
+
+.navbar #main-nav li.active, .navbar #main-nav li:hover {
+	background-color: #355987;
+}
+
+.navbar #main-nav li.active a, .navbar #main-nav li:hover a {
+	color: #fff;
+}
