@@ -3,9 +3,9 @@
 	top: -30px;
 }
 
-.belion .col-md-6 {
+/*.belion .col-md-6 {
 	padding-left: 10px;
-}
+}*/
 
 .fa-stack .numbers {
 	color: white;
@@ -80,4 +80,8 @@ h4 {
 
 .navbar #main-nav li.active a, .navbar #main-nav li:hover a {
 	color: #fff;
+}
+
+.bold {
+	font-weight: bold;
 }
